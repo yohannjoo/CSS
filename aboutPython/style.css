@@ -1,0 +1,97 @@
+.container{
+    width:970px;
+    height:1000px;
+    background-color:rgb(46, 2, 241);
+}
+.header{
+    display: inline-flex;
+}
+.header img{
+    width:400px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left:50px;
+    display: inline-flex;
+}
+.other{
+    margin-left: 300px;
+    margin-top:-10px;
+}
+.other h6{
+    font-size: .9em;
+    color:white;
+}
+.other h6 u{
+    color:yellow;
+}
+
+.find{
+    border: 5px solid black;
+    width: 168px;
+    border-radius: 10px;
+    border-width: 30px;
+    background-color: black;
+    margin-left: -45px;
+    margin-top: -20px;
+}
+.banner{
+    width: 780px;
+    height: 60px;
+    border-radius: 10px;
+    display: inline-flex;
+    background-color: rgb(63, 89, 204);
+    color: white;
+    margin-left: 120px;
+}
+.banner h3{
+    margin-left:45px;
+}
+.main{
+    display: inline-block;
+}
+.un{
+    text-align: center;
+    color:white;
+    margin-left: 135px;;
+    display: inline-block;
+    margin-top:15px;
+    text-decoration: underline;
+}
+.blah{
+    display: inline-block;
+    margin-left: 385px;
+    text-align: center;
+    margin-top: -180px;
+    margin-right:30px;
+}
+.blah h5{
+    color:white;
+}
+.blah h3{
+    color:yellow
+}
+.sub{
+    display: inline-flex;
+    text-align: center;
+    background-color:white;
+    width:970px;
+    height:300px;
+}
+.sub h5{
+    border-top:3px solid turquoise;
+    width:200px;
+    margin-left:100px;
+}
+.sub h6{
+    margin-right:10px;
+    margin-left:20px;
+}
+.main h4{
+    display: inline-flex;
+    color: lightblue;
+    text-align: center;
+    margin-left:120px;
+}
+.container h6{
+    text-align: center;
+}
